@@ -1,0 +1,2 @@
+docker run --rm -it -v %~dp0:/usr/src/app -e JEKYLL_ENV=development -p "4000:4000" starefossen/github-pages:latest jekyll serve --config _config.yml,_config.dev.yml --host 0.0.0.0 --force_polling
+cmd /k

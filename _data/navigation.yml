@@ -1,7 +1,17 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Kom med..."
+    url: /kom-med/
+
+  - title: "Sejlplan og togter"
+    url: /togter/
+    
+  - title: "blog/nyheder"
+    url: /nyheder/
+    
+  - title: "Om Betty"
+    url: /om-betty/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

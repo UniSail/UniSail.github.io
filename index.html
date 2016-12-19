@@ -1,4 +1,27 @@
 ---
-layout: home
+title: "Foreningen UniSail"
+layout: single
 author_profile: true
+header:
+  overlay_image: assets/images/betty_splash.png
+  overlay_filter: rgba(0, 0, 0, 0.5)
+  cta_label: "<i class='fa fa-life-ring'></i> Pak køjesækken og tag med"
+  cta_url: "/kom-med/"
+  caption:
+excerpt: 'UniSail er en forening omkring kutteren Betty der hører hjemme i Aalborg.<br/><br/> <small>Siden er under konstruktion</small>'
 ---
+
+{% include base_path %}
+
+UniSail er en forening omkring kutteren Betty der hører hjemme i Aalborg
+
+
+
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}

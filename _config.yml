@@ -6,15 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
-title                    : "Site Title"
+locale                   : "da-DK"
+title                    : 'UniSail'
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Betty af Aalborg"
+description              : "Hjemmeside for UniSail."
+url                      : "https://unisail.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "UniSail/unisail.github.io"
+teaser                   : "/assets/images/betty_under_sejl_500x300.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Betty"
+  avatar           : "/assets/images/betty_under_sejl.jpg"
+  bio              : "Nordsøkutter"
+  location         : "Aalborg, Danmark"
+  email            : "br@math.aau.dk"
   uri              :
   bitbucket        :
   codepen          :
@@ -233,6 +233,13 @@ compress_html:
 
 # Defaults
 defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
   # _posts
   - scope:
       path: ""

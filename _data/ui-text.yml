@@ -49,6 +49,51 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
+  
+# Dansk
+# -----------------
+da: &DEFAULT_DA
+  page                       : "Side"
+  pagination_previous        : "Forrige"
+  pagination_next            : "Næste"
+  breadcrumb_home_label      : "Home"
+  breadcrumb_separator       : "/"
+  toc_label                  : "På denne side"
+  ext_link_label             : "Direkte Link"
+  less_than                  : "mindre end"
+  minute_read                : "minuters læsning"
+  share_on_label             : "Del på"
+  meta_label                 :
+  tags_label                 : "Tags:"
+  categories_label           : "Katergorier:"
+  date_label                 : "Opdateret:"
+  comments_label             : "Skriv en kommentar"
+  comments_title             : "Kommentarer"
+  more_label                 : "Få mere at vide"
+  related_label              : "Relateret"
+  follow_label               : "Følg:"
+  feed_label                 : "Feed"
+  powered_by                 : "Powered by"
+  website_label              : "Website"
+  email_label                : "Email"
+  recent_posts               : "Seneste indlæg"
+  undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
+  comment_form_info          : "Din email adresse bliver ikke offentliggjort. Krævede felter er markeret"
+  comment_form_comment_label : "Kommentar"
+  comment_form_md_info       : "Markdown er understøttet."
+  comment_form_name_label    : "Navn"
+  comment_form_email_label   : "Email adresse"
+  comment_form_website_label : "Hjemmeside (valgfri)"
+  comment_btn_submit         : "Send kommentar"
+  comment_btn_submitted      : "Sendt"
+  comment_success_msg        : "Tak for din kommentar! Den vil blive vist på siden når den er blevet godkendt."
+  comment_error_msg          : "Beklager, der skrete en fejl. Tjek at alle krævede felter er udfyldt og prøv igen."
+  loading_label              : "Indlæser..."
+da-DK:
+  <<: *DEFAULT_DA
+
+
+  
 # Spanish
 # --------------
 es: &DEFAULT_ES

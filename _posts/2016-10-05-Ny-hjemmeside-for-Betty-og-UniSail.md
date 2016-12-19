@@ -1,0 +1,10 @@
+---
+title: "Ny hjemmeside for Betty og UniSail"
+categories:
+  - PR
+tags:
+  - hjemmeside
+  - Post Formats
+---
+
+Ny hjemmeside for UniSail foreningen er oppe at køre. Stadig meget primitiv, men forhåbenlig vil den med tiden indeholde meget mere materiale om UniSail og Betty
