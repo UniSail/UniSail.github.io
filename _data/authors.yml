@@ -1,0 +1,15 @@
+mel:
+  name: "Morten Enemark Lund"
+  bio: "Styrmand og mangeårig træskibs entusiast."
+  email: "melund@gmail.com"
+  location: "Aalborg, Denmark"
+  avatar: "/assets/images/people/mel.jpg"
+  github: "melund"
+  linkedin: "biomedical"
+  keybase: "mortenlund"
+
+br:
+  name: "Bo Rosbjerg"
+  email: "br@math.aau.dk"
+  bio: "Mangeårrig Skipper og Tall Ship sejler. "
+  avatar: "/assets/images/people/br2.jpg"
