@@ -7,6 +7,9 @@ tags:
   - julehilsen
 ---
 
+{% include base_path %}
+
+
 Efter køb og et længere værftsophold i Rødbyhavn fik vi sejlet 'Betty' til Aalborg.
 Undervejs måtte vi desværre konstatere, at dækket var meget utæt. Yderligere problemer opstod i Aalborg:
 Der lækkede diesel ud i havnebassinet.Ikke så meget, men nok til, at vi måtte en tur til Hals Motor 

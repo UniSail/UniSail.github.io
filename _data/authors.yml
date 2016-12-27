@@ -1,6 +1,6 @@
 mel:
   name: "Morten Enemark Lund"
-  bio: "Styrmand og mangeårig træskibs entusiast."
+  bio: "Styrmand, yachtskipper af 3. grad og mangeårig træskibs entusiast."
   email: "melund@gmail.com"
   location: "Aalborg, Denmark"
   avatar: "/assets/images/people/mel.jpg"
@@ -11,5 +11,5 @@ mel:
 br:
   name: "Bo Rosbjerg"
   email: "br@math.aau.dk"
-  bio: "Mangeårrig Skipper og Tall Ship sejler. "
+  bio: "Skipper og Tall Ship sejler. "
   avatar: "/assets/images/people/br2.jpg"

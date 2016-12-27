@@ -4,12 +4,13 @@ layout: single
 permalink: kom-med/
 ---
 
-På Betty planlægger vi at deltage i
+På Betty planlægger vi at deltage i [Rendez-Vous 2017 Tall Ships’ Regatta](www.sailtraininginternational.org/events/2017-canada-150-tall-ships-regatta)
 
-[Rendez-Vous 2017 Tall Ships’ Regatta](www.sailtraininginternational.org/events/2017-canada-150-tall-ships-regatta){: .btn .btn--success}
+Er du interesseret I at deltage I et eller flere delstrækninger af regattaen, så send en mail til 
+
+[<i class="fa fa-info-circle" aria-hidden="true"> </i> br@math.aau.dk](mailto:br@math.aau.dk){: .btn .btn--info}
 {: .text-center}
 
-Er du interesseret I at deltage I et eller flere delstrækninger af regattaen, så send en mail til br@math.aau.dk
 
 Hvis du kan fungere som styrmand om bord, så skriv også det.
 

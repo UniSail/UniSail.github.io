@@ -5,10 +5,7 @@ permalink: togter/
 ---
 
 
-På Betty planlægger vi at deltage i Tall Ships’ Race til Canada 2017. 
-
-[Rendez-Vous 2017 Tall Ships’ Regatta](www.sailtraininginternational.org/events/2017-canada-150-tall-ships-regatta){: .btn .btn--success}
-{: .text-center}
+På Betty planlægger vi at deltage i Tall Ships’ Race til Canada 2017.  Du kan læse mere om [planerne her](/kom-med)..
 
 
 ----
