@@ -1,6 +1,8 @@
 ---
 title: "Julehilsen fra Betty"
 excerpt: "Efter køb og et længere værftsophold i Rødbyhavn fik vi sejlet 'Betty' til Aalborg. Undervejs måtte vi desværre konstatere, at dækket var meget utæt."
+header:
+	  teaser: "/assets/images/julehilsen2016.jpg"
 author: br
 categories:
   - Opdatering
