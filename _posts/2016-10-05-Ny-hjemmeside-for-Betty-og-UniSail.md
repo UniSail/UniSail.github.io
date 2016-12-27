@@ -1,7 +1,8 @@
 ---
 title: "Ny hjemmeside for Betty og UniSail"
 header:
-	  image: "/assets/images/new-website.jpg"
+     teaser: "/assets/images/new-website.jpg"
+excerpt: "Ny hjemmeside for UniSail foreningen er oppe at køre. Stadig meget primitiv, men forhåbenlig vil den tiden indeholde ..."
 categories:
   - PR
 tags:
